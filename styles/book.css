@@ -1,0 +1,15 @@
+.div_book {
+  position:relative;
+  padding-top:max(60%,324px);
+  width:100%;
+  height:0;
+}
+
+.iframe_book {
+  position:absolute;
+  border:none;
+  height:100%;
+  width:100%;
+  left:0;
+  top:0;
+}
